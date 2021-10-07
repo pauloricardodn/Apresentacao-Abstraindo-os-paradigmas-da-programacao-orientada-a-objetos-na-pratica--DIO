@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EverisStore.Aplication/1.0.0": {
+        "dependencies": {
+          "EverisSore.Domain": "1.0.0"
+        },
+        "runtime": {
+          "EverisStore.Aplication.dll": {}
+        }
+      },
+      "EverisSore.Domain/1.0.0": {
+        "runtime": {
+          "EverisSore.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EverisStore.Aplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EverisSore.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

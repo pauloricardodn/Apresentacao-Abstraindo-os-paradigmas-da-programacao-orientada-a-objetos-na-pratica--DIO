@@ -1,0 +1,12 @@
+C:\Users\paulo\source\repos\TesteOrientacaoobjetos\EverisStore\EverisSore.Domain\bin\Debug\net5.0\EverisSore.Domain.deps.json
+C:\Users\paulo\source\repos\TesteOrientacaoobjetos\EverisStore\EverisSore.Domain\bin\Debug\net5.0\EverisSore.Domain.dll
+C:\Users\paulo\source\repos\TesteOrientacaoobjetos\EverisStore\EverisSore.Domain\bin\Debug\net5.0\ref\EverisSore.Domain.dll
+C:\Users\paulo\source\repos\TesteOrientacaoobjetos\EverisStore\EverisSore.Domain\bin\Debug\net5.0\EverisSore.Domain.pdb
+C:\Users\paulo\source\repos\TesteOrientacaoobjetos\EverisStore\EverisSore.Domain\obj\Debug\net5.0\EverisSore.Domain.csprojAssemblyReference.cache
+C:\Users\paulo\source\repos\TesteOrientacaoobjetos\EverisStore\EverisSore.Domain\obj\Debug\net5.0\EverisSore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\source\repos\TesteOrientacaoobjetos\EverisStore\EverisSore.Domain\obj\Debug\net5.0\EverisSore.Domain.AssemblyInfoInputs.cache
+C:\Users\paulo\source\repos\TesteOrientacaoobjetos\EverisStore\EverisSore.Domain\obj\Debug\net5.0\EverisSore.Domain.AssemblyInfo.cs
+C:\Users\paulo\source\repos\TesteOrientacaoobjetos\EverisStore\EverisSore.Domain\obj\Debug\net5.0\EverisSore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\TesteOrientacaoobjetos\EverisStore\EverisSore.Domain\obj\Debug\net5.0\EverisSore.Domain.dll
+C:\Users\paulo\source\repos\TesteOrientacaoobjetos\EverisStore\EverisSore.Domain\obj\Debug\net5.0\ref\EverisSore.Domain.dll
+C:\Users\paulo\source\repos\TesteOrientacaoobjetos\EverisStore\EverisSore.Domain\obj\Debug\net5.0\EverisSore.Domain.pdb
